@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m passionate about coding and learning new tec
 - Any cool project that pushes the limits of technology!
 
 ## 📫 How to reach me ...
-- Email: [your-email@example.com]
+- Email: njinihacker@gmail.com
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
